@@ -22,7 +22,7 @@ This repository contains examples of how to integrate TypeAuth libraries with di
 
 ### Express
 
-The `nodejs/express` directory contains an example of integrating TypeAuth with an Express application. It demonstrates how to use the TypeAuth Node.js library to authenticate requests and protect routes.
+The `nodejs` directory contains an example of integrating TypeAuth with an Express application. It demonstrates how to use the TypeAuth Node.js library to authenticate requests and protect routes.
 
 To run the Express example:
 
