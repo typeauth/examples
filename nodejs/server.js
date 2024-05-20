@@ -9,7 +9,7 @@ const server = express();
 greenlock.init({
   packageRoot: __dirname,
   // contact for security and critical bug notices
-  maintainerEmail: "pablo@zeroteam.dev",
+  maintainerEmail: "username@email.com",
   // where to look for configuration
   configDir: './greenlock.d',
   // whether or not to run at cloudscale
