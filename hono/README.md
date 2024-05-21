@@ -1,10 +1,8 @@
 # Hono JS Library
 
-This is an  Hono JS implementation for library for integrating TypeAuth authentication into your application.
-
+This is an Hono JS implementation for library for integrating TypeAuth authentication into your application.
 
 > This implementation has been running using Cloudflare Workers.
-
 
 ## Installation
 
@@ -21,11 +19,10 @@ Before using the library, you need to configure it with your TypeAuth Applicatio
 Make sure to replace `'YOUR_APP_ID'` with your actual TypeAuth application ID, you can find it in the [dashboard](https://app.typeauth.com)
 
 ```javascript
-const typeauth = new Typeauth({
-  appId: "YOUR_APP_ID",
-});
+const config = {
+	appId: 'YOUR_APP_ID',
+};
 ```
-
 
 ## Contributing
 
