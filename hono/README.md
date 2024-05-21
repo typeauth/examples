@@ -1,6 +1,10 @@
-# Express Hono JS Library
+# Hono JS Library
 
-This is an Express Hono JS implementation for library for integrating TypeAuth authentication into your application.
+This is an  Hono JS implementation for library for integrating TypeAuth authentication into your application.
+
+<Note>
+This implementation has been running using Cloudflare Workers.
+</Note>
 
 ## Installation
 
