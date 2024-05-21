@@ -2,9 +2,9 @@
 
 This is an  Hono JS implementation for library for integrating TypeAuth authentication into your application.
 
-<Note>
-This implementation has been running using Cloudflare Workers.
-</Note>
+
+> This implementation has been running using Cloudflare Workers.
+
 
 ## Installation
 
